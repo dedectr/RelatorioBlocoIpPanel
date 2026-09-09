@@ -7,16 +7,11 @@ Ferramenta de escaneamento de portas e geração de relatórios web para blocos 
 ### Usando BGP.he.net
 
 1. Acesse [https://bgp.he.net/](https://bgp.he.net/)
-2. No campo de busca, digite um ASN (ex: `AS28573`) ou um IP de origem e clique **Lookup**
-3. Na página do ASN, clique na aba **Prefixes** para ver todos os blocos IPv4 e IPv6 anunciados
-4. Copie os blocos no formato CIDR (ex: `200.103.0.0/21`) e adicione ao `blocos.txt`
-
-### Usando HackerTarget
-
-1. Acesse [https://hackertarget.com/as-ip-lookup/](https://hackertarget.com/as-ip-lookup/)
-2. Digite um ASN (ex: `AS28573`) ou um domínio e clique **Lookup**
-3. O site retorna os blocos IP associados ao ASN
-4. Copie os blocos e adicione ao `blocos.txt`
+2. Copei o: ASN (ex: `AS28573`) 
+3. depois se coloca no site abaixo
+4. Acesse [https://hackertarget.com/as-ip-lookup/](https://hackertarget.com/as-ip-lookup/)
+5. Digite um ASN (ex: `AS28573`) ou um domínio e clique **Lookup**
+6. Copie os blocos e adicione ao `blocos.txt`
 
 ### Formato do arquivo blocos.txt
 
