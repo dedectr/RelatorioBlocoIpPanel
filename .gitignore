@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+relatorio_*.csv
+relatorio_*.txt
+*.tmp
+*.log

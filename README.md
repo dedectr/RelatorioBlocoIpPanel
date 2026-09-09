@@ -109,5 +109,3 @@ site-ip/
 ├── .venv/              # Ambiente virtual Python
 └── README.md
 ```
-# RelatorioBlocoIpPanel
-# RelatorioBlocoIpPanel
